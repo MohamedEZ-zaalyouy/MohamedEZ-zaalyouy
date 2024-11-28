@@ -1,6 +1,11 @@
 # 💫 About Me:
-👋 About Me<br>Hi there! I'm Mohamed, a passionate Python Software Engineer based in Morocco. With experience in e-commerce, API development, and data analysis, I specialize in building efficient and scalable solutions.<br>I'm currently working on optimizing supply chains and inventory management using AI.<br><br>💡 Fun fact: I love solving complex problems and exploring how technology can improve daily life!
-
+👋 Welcome to my Github profile! I'm Mohamed EZ-ZAALYOUY, Software Engineer. With a commitment to excellence and a knack for problem-solving, I specialize in Django, proficient across versions 3 through 5. My expertise extends to a diverse set of technologies including Python, JavaScript, C, Django, Odoo, Flask, React.js, PostgreSQL, MySQL, SQL, Bootstrap, and jQuery, among others.
+<br><br>
+Driven by a love for innovation, I thrive on tackling complex challenges and delivering tailored solutions that exceed expectations. Whether it's providing development support, or simply connecting with fellow professionals, I'm here to collaborate and inspire, and I live by the motto: Dare to fail.
+<br><br>
+Let's embark on a journey of creativity and growth together! Feel free to reach out—I'm always up for a conversation.
+<br><br>
+Thank you for stopping by,
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mohamedezzaalyouy/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/?lang=fr) 
